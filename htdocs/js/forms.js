@@ -182,6 +182,6 @@
 })(jQuery)
 $(window).load(function() {	
 	$('#ContactForm').forms({
-		ownerEmail:'#'
+		ownerEmail:'stu89424@gmail.com'
 	})
 })
